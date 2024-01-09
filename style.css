@@ -1,0 +1,46 @@
+*{
+    margin:0;
+
+}
+.container{
+    height:50vh;
+    width:35vw;
+    border:2px solid black;
+    background: linear-gradient(#ff1b6b,#45caff);
+    margin:100px 340px ;
+    color:white;
+    
+}
+span{
+    margin:20px;
+    font-size: larger;
+    justify-content: center;
+    display:flex;
+    text-align: center;
+}
+.btn{
+
+    display:flex;
+    justify-content: center;
+    margin-top:45px;
+   
+}
+#res{
+    margin:30px 50px;
+}
+#t{
+    padding:3px;
+    background-color:rgba(0, 102, 255, 0.208);
+    color:white;
+    margin:5px;
+    width:52px;
+}
+#f{
+    padding:3px;
+    background-color: rgba(0, 102, 255, 0.208);
+    color:white;
+    margin:5px;
+    width:52px;
+    
+}
+
